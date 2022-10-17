@@ -1,0 +1,2 @@
+git origin is different from git main
+git checkout -b <branch name > to create new branch
